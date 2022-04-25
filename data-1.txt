@@ -1,0 +1,3 @@
+Lambert	101	101 Lambert St	34	10.50	
+Osborne	102	102 Osborne Ave	22	6.25	
+Giacometti	103	103 Giacometti Rd.	5	100.70
